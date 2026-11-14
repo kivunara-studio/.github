@@ -1,2 +1,3 @@
-# .github
-Öffentliches Profil von Kivunara Studio – Apps, Spiele und digitale Werkzeuge.
+#github
+
+Public profile of Kivunara Studio — apps, games, and digital tools.
