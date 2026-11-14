@@ -1,41 +1,41 @@
 # Kivunara Studio
 
-### Apps mit Nutzen. Spiele mit Charakter.
+### Useful apps. Games with character.
 
-Kivunara Studio ist unser Ort für unabhängige Softwareentwicklung. Wir entwickeln praktische Anwendungen und schaffen Raum für eigene Spielideen und digitale Werkzeuge. Uns interessiert nicht nur, was Software kann, sondern auch, wie verständlich sie sich bedienen lässt.
+Kivunara Studio is our home for independent software development. We build practical applications and make room for our own game ideas and digital tools. We care not only about what software can do, but also about how easy it is to understand and use.
 
-## Woran wir arbeiten
+## What we're working on
 
 ### TapFence · Android
 
-TapFence ist unser aktuelles App-Projekt: eine Android-Firewall für die Kontrolle darüber, welche Apps WLAN und mobile Daten verwenden dürfen. Im Mittelpunkt stehen nachvollziehbare Regeln, bewusste Freigaben und verständliche Informationen über den Schutzstatus.
+TapFence is our current app project: an Android firewall that lets you control which apps can use Wi-Fi and mobile data. We focus on clear rules, deliberate choices about network access, and clear information about protection status.
 
-### Spiele · geplanter Bereich
+### Games · Planned
 
-Kivunara soll auch eine Heimat für eigene Spiele werden. Konkrete Projekte stellen wir vor, sobald es etwas zu zeigen gibt. Bis dahin sind Spielideen keine angekündigten Veröffentlichungen.
+We also want Kivunara to be a home for our own games. We'll introduce specific projects once we have something to show. Until then, our game ideas should not be taken as release announcements.
 
-### Tools und Experimente
+### Tools and experiments
 
-Kleine Helfer, Prototypen und technische Experimente haben hier ebenfalls Platz. Aus einer guten Idee kann ein eigenständiges Projekt werden – sie muss nicht zu TapFence passen.
+Small utilities, prototypes, and technical experiments also have a place here. A good idea can grow into a standalone project — it doesn't have to be related to TapFence.
 
-## Was uns wichtig ist
+## What matters to us
 
-**Verständliche Bedienung.** Einstellungen sollen erklären, was sie verändern. Technische Möglichkeiten dürfen die einfache Nutzung nicht verdrängen.
+**Ease of use.** Settings should explain what they change. Technical capabilities should not come at the expense of ease of use.
 
-**Bewusster Umgang mit Daten.** Zusätzliche Erfassung soll nachvollziehbar sein. Sensible Informationen gehören nicht in öffentliche Fehlerberichte.
+**Responsible data handling.** Any additional data collection should be clearly explained. Sensitive information does not belong in public bug reports.
 
-**Schrittweise Entwicklung.** Wir möchten Änderungen in überschaubaren Schritten prüfen und zusammenführen. Eine Funktion im Entwicklungszweig ist noch keine stabile Veröffentlichung.
+**Incremental development.** We aim to review and merge changes in manageable steps. A feature in the development branch is not yet a stable release.
 
-**Ehrlicher Projektstatus.** Wir unterscheiden zwischen Ideen, Prototypen, getesteten Funktionen und veröffentlichten Versionen. Bekannte Grenzen gehören zur Dokumentation.
+**Honesty about project status.** We distinguish between ideas, prototypes, tested features, and released versions. Known limitations belong in the documentation.
 
-## Projekte entdecken und mitwirken
+## Explore our projects and get involved
 
-Verfügbare öffentliche Projekte findest du in den Repositories dieser Organisation. Hinweise zu Installation, Plattformen, Releases und Beiträgen stehen im jeweiligen Projekt.
+You can find our public projects in this organization's repositories. Each project provides its own information about installation, platforms, releases, and contributions.
 
-Für Fehlerberichte und Vorschläge nutze die dort angebotenen Issues oder Discussions. Bitte entferne persönliche Daten, Zugangsdaten und andere Geheimnisse aus Beschreibungen und Anhängen. Sicherheitsprobleme gehören in den privaten Meldeweg des jeweiligen Projekts, sofern einer eingerichtet ist.
+For bug reports and suggestions, use the Issues or Discussions available in the relevant project. Please remove personal data, credentials, and other secrets from descriptions and attachments. Security issues should be reported through the project's private reporting channel, if one is available.
 
-Die Lizenz und die Möglichkeiten zur Mitwirkung werden pro Repository festgelegt. Dieses Profil ist keine gemeinsame Lizenz für alle Projekte.
+Licensing and contribution options are defined separately for each repository. This profile does not serve as a shared license for all projects.
 
 ---
 
-**Kivunara Studio** · Eigenständige Ideen. Schritt für Schritt entwickelt.
+**Kivunara Studio** · Independent ideas. Built step by step.
